@@ -1,0 +1,422 @@
+brand,model_name,screen_size,color,cpu_model,ram,os,special_feature,graphics_card_type,graphics_coprocessor,price,average_ratings
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+acer,Nitro 17,17.3 Inches,Black,AMD Ryzen 7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,032",4.3
+MSI,Katana 17 B13VFK-835US,17.3 Inches,Black,Core i7,32 GB,Windows 11 Home,,RTX 4060,NVIDIA GeForce RTX 4060,"1,372",4.3
+ASUS,G513RC-EH71,15.6 Inches,Eclipse Gray,Ryzen 7,8 GB,Windows 11 Home,,Dedicated,NVIDIA GeForce RTX 3050,860,4.5
+ASUS,FA707NU-DS74,17.3 Inches,Mecha Gray,Ryzen 7,16 GB,Windows 11 Home,"Anti-Glare Display, Backlit Keyboard",Dedicated,NVIDIA GeForce RTX 4050 Laptop GPU,"1,157",4.4
+MSI,MSI GF63,15.6 Inches,Aluminum Black,Core i5 Family,16 GB,Windows 11,Backlit Keyboard,Dedicated,,699,4.2
+MSI,MSI Cyborg 15,15.6 Inches,16GB RAM | 512GB PCIe SSD,Core i7,16 GB,Windows 11 Home,"Translucent Chassis Components, Translucent Keycaps",Dedicated,,889,4.1
+GIGABYTE,G6 KF-H3US853SH,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Anti Glare Coating, Numeric Keypad",Dedicated,,959,4.5
+HP,HP Victus,15.6 Inches,Mica Silver,Ryzen 5,8 GB,Windows 11 Home,"144Hz Refresh Rate, Backlit Keyboard",GeForce RTX 2050,,580,4.3
+MSI,Pulse 17 B13VGK-888US,17 Inches,Black,Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard",Dedicated,,"1,299",5.0
+Verbatim,,17.3 Inches,,,,,"Touchscreen, Portable, Lightweight, Tilt Adjustment",,,349,4.4
+MSI,Raider GE76 12UE-871,17.3 Inches,Black,Core i9,16 GB,Windows 11 Home,Numeric Keypad,Dedicated,,"1,299",4.8
+acer,PT14-51-78B4,14 Inches,Silver,Intel Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard, Memory Card Slot",Dedicated,,899,4.1
+acer,Predator Helios 16 PH16-71-72YG,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,399",4.5
+MSI,MSI,15.6 Inches,Black,Core i7,32 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,018",
+Razer,Blade,16 Inches,Classic Black,Intel Core i9,32 GB,Windows 11,"CNC Aluminum Construction, Chroma RGB, Compact GaN Charger, Windows 11",Dedicated,,"4,099",3.5
+MSI,THINGF63,15.6,,Intel Core i7,32 GB,Windows 11,Thin Bezel,Dedicated,NVIDIA GeForce RTX 4050,989,3.9
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Intel Core i9,16 GB,Windows 11 Home,Anti Glare Coating,Dedicated,,"1,999",4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+acer,Nitro 17,17.3 Inches,Black,AMD Ryzen 7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,032",4.3
+MSI,Katana 17 B13VFK-835US,17.3 Inches,Black,Core i7,32 GB,Windows 11 Home,,RTX 4060,NVIDIA GeForce RTX 4060,"1,372",4.3
+ASUS,G513RC-EH71,15.6 Inches,Eclipse Gray,Ryzen 7,8 GB,Windows 11 Home,,Dedicated,NVIDIA GeForce RTX 3050,860,4.5
+ASUS,FA707NU-DS74,17.3 Inches,Mecha Gray,Ryzen 7,16 GB,Windows 11 Home,"Anti-Glare Display, Backlit Keyboard",Dedicated,NVIDIA GeForce RTX 4050 Laptop GPU,"1,157",4.4
+MSI,MSI GF63,15.6 Inches,Aluminum Black,Core i5 Family,16 GB,Windows 11,Backlit Keyboard,Dedicated,,699,4.2
+MSI,MSI Cyborg 15,15.6 Inches,16GB RAM | 512GB PCIe SSD,Core i7,16 GB,Windows 11 Home,"Translucent Chassis Components, Translucent Keycaps",Dedicated,,889,4.1
+GIGABYTE,G6 KF-H3US853SH,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Anti Glare Coating, Numeric Keypad",Dedicated,,959,4.5
+HP,HP Victus,15.6 Inches,Mica Silver,Ryzen 5,8 GB,Windows 11 Home,"144Hz Refresh Rate, Backlit Keyboard",GeForce RTX 2050,,580,4.3
+MSI,Pulse 17 B13VGK-888US,17 Inches,Black,Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard",Dedicated,,"1,299",5.0
+Verbatim,,17.3 Inches,,,,,"Touchscreen, Portable, Lightweight, Tilt Adjustment",,,349,4.4
+MSI,Raider GE76 12UE-871,17.3 Inches,Black,Core i9,16 GB,Windows 11 Home,Numeric Keypad,Dedicated,,"1,299",4.8
+acer,PT14-51-78B4,14 Inches,Silver,Intel Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard, Memory Card Slot",Dedicated,,899,4.1
+acer,Predator Helios 16 PH16-71-72YG,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,399",4.5
+MSI,MSI,15.6 Inches,Black,Core i7,32 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,018",
+Razer,Blade,16 Inches,Classic Black,Intel Core i9,32 GB,Windows 11,"CNC Aluminum Construction, Chroma RGB, Compact GaN Charger, Windows 11",Dedicated,,"4,099",3.5
+MSI,THINGF63,15.6,,Intel Core i7,32 GB,Windows 11,Thin Bezel,Dedicated,NVIDIA GeForce RTX 4050,989,3.9
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Intel Core i9,16 GB,Windows 11 Home,Anti Glare Coating,Dedicated,,"1,999",4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+acer,Nitro 17,17.3 Inches,Black,AMD Ryzen 7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,032",4.3
+MSI,Katana 17 B13VFK-835US,17.3 Inches,Black,Core i7,32 GB,Windows 11 Home,,RTX 4060,NVIDIA GeForce RTX 4060,"1,372",4.3
+ASUS,G513RC-EH71,15.6 Inches,Eclipse Gray,Ryzen 7,8 GB,Windows 11 Home,,Dedicated,NVIDIA GeForce RTX 3050,860,4.5
+ASUS,FA707NU-DS74,17.3 Inches,Mecha Gray,Ryzen 7,16 GB,Windows 11 Home,"Anti-Glare Display, Backlit Keyboard",Dedicated,NVIDIA GeForce RTX 4050 Laptop GPU,"1,157",4.4
+MSI,MSI GF63,15.6 Inches,Aluminum Black,Core i5 Family,16 GB,Windows 11,Backlit Keyboard,Dedicated,,699,4.2
+MSI,MSI Cyborg 15,15.6 Inches,16GB RAM | 512GB PCIe SSD,Core i7,16 GB,Windows 11 Home,"Translucent Chassis Components, Translucent Keycaps",Dedicated,,889,4.1
+GIGABYTE,G6 KF-H3US853SH,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Anti Glare Coating, Numeric Keypad",Dedicated,,959,4.5
+HP,HP Victus,15.6 Inches,Mica Silver,Ryzen 5,8 GB,Windows 11 Home,"144Hz Refresh Rate, Backlit Keyboard",GeForce RTX 2050,,580,4.3
+MSI,Pulse 17 B13VGK-888US,17 Inches,Black,Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard",Dedicated,,"1,299",5.0
+Verbatim,,17.3 Inches,,,,,"Touchscreen, Portable, Lightweight, Tilt Adjustment",,,349,4.4
+MSI,Raider GE76 12UE-871,17.3 Inches,Black,Core i9,16 GB,Windows 11 Home,Numeric Keypad,Dedicated,,"1,299",4.8
+acer,PT14-51-78B4,14 Inches,Silver,Intel Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard, Memory Card Slot",Dedicated,,899,4.1
+acer,Predator Helios 16 PH16-71-72YG,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,399",4.5
+MSI,MSI,15.6 Inches,Black,Core i7,32 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,018",
+Razer,Blade,16 Inches,Classic Black,Intel Core i9,32 GB,Windows 11,"CNC Aluminum Construction, Chroma RGB, Compact GaN Charger, Windows 11",Dedicated,,"4,099",3.5
+MSI,THINGF63,15.6,,Intel Core i7,32 GB,Windows 11,Thin Bezel,Dedicated,NVIDIA GeForce RTX 4050,989,3.9
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Intel Core i9,16 GB,Windows 11 Home,Anti Glare Coating,Dedicated,,"1,999",4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+acer,Nitro 17,17.3 Inches,Black,AMD Ryzen 7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,032",4.3
+MSI,Katana 17 B13VFK-835US,17.3 Inches,Black,Core i7,32 GB,Windows 11 Home,,RTX 4060,NVIDIA GeForce RTX 4060,"1,372",4.3
+ASUS,G513RC-EH71,15.6 Inches,Eclipse Gray,Ryzen 7,8 GB,Windows 11 Home,,Dedicated,NVIDIA GeForce RTX 3050,860,4.5
+ASUS,FA707NU-DS74,17.3 Inches,Mecha Gray,Ryzen 7,16 GB,Windows 11 Home,"Anti-Glare Display, Backlit Keyboard",Dedicated,NVIDIA GeForce RTX 4050 Laptop GPU,"1,157",4.4
+MSI,MSI GF63,15.6 Inches,Aluminum Black,Core i5 Family,16 GB,Windows 11,Backlit Keyboard,Dedicated,,699,4.2
+MSI,MSI Cyborg 15,15.6 Inches,16GB RAM | 512GB PCIe SSD,Core i7,16 GB,Windows 11 Home,"Translucent Chassis Components, Translucent Keycaps",Dedicated,,889,4.1
+GIGABYTE,G6 KF-H3US853SH,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Anti Glare Coating, Numeric Keypad",Dedicated,,959,4.5
+HP,HP Victus,15.6 Inches,Mica Silver,Ryzen 5,8 GB,Windows 11 Home,"144Hz Refresh Rate, Backlit Keyboard",GeForce RTX 2050,,580,4.3
+MSI,Pulse 17 B13VGK-888US,17 Inches,Black,Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard",Dedicated,,"1,299",5.0
+Verbatim,,17.3 Inches,,,,,"Touchscreen, Portable, Lightweight, Tilt Adjustment",,,349,4.4
+MSI,Raider GE76 12UE-871,17.3 Inches,Black,Core i9,16 GB,Windows 11 Home,Numeric Keypad,Dedicated,,"1,299",4.8
+acer,PT14-51-78B4,14 Inches,Silver,Intel Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard, Memory Card Slot",Dedicated,,899,4.1
+acer,Predator Helios 16 PH16-71-72YG,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,399",4.5
+MSI,MSI,15.6 Inches,Black,Core i7,32 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,018",
+Razer,Blade,16 Inches,Classic Black,Intel Core i9,32 GB,Windows 11,"CNC Aluminum Construction, Chroma RGB, Compact GaN Charger, Windows 11",Dedicated,,"4,099",3.5
+MSI,THINGF63,15.6,,Intel Core i7,32 GB,Windows 11,Thin Bezel,Dedicated,NVIDIA GeForce RTX 4050,989,3.9
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Intel Core i9,16 GB,Windows 11 Home,Anti Glare Coating,Dedicated,,"1,999",4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+acer,Nitro 17,17.3 Inches,Black,AMD Ryzen 7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,032",4.3
+MSI,Katana 17 B13VFK-835US,17.3 Inches,Black,Core i7,32 GB,Windows 11 Home,,RTX 4060,NVIDIA GeForce RTX 4060,"1,372",4.3
+ASUS,G513RC-EH71,15.6 Inches,Eclipse Gray,Ryzen 7,8 GB,Windows 11 Home,,Dedicated,NVIDIA GeForce RTX 3050,860,4.5
+ASUS,FA707NU-DS74,17.3 Inches,Mecha Gray,Ryzen 7,16 GB,Windows 11 Home,"Anti-Glare Display, Backlit Keyboard",Dedicated,NVIDIA GeForce RTX 4050 Laptop GPU,"1,157",4.4
+MSI,MSI GF63,15.6 Inches,Aluminum Black,Core i5 Family,16 GB,Windows 11,Backlit Keyboard,Dedicated,,699,4.2
+MSI,MSI Cyborg 15,15.6 Inches,16GB RAM | 512GB PCIe SSD,Core i7,16 GB,Windows 11 Home,"Translucent Chassis Components, Translucent Keycaps",Dedicated,,889,4.1
+GIGABYTE,G6 KF-H3US853SH,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Anti Glare Coating, Numeric Keypad",Dedicated,,959,4.5
+HP,HP Victus,15.6 Inches,Mica Silver,Ryzen 5,8 GB,Windows 11 Home,"144Hz Refresh Rate, Backlit Keyboard",GeForce RTX 2050,,580,4.3
+MSI,Pulse 17 B13VGK-888US,17 Inches,Black,Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard",Dedicated,,"1,299",5.0
+Verbatim,,17.3 Inches,,,,,"Touchscreen, Portable, Lightweight, Tilt Adjustment",,,349,4.4
+MSI,Raider GE76 12UE-871,17.3 Inches,Black,Core i9,16 GB,Windows 11 Home,Numeric Keypad,Dedicated,,"1,299",4.8
+acer,PT14-51-78B4,14 Inches,Silver,Intel Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard, Memory Card Slot",Dedicated,,899,4.1
+acer,Predator Helios 16 PH16-71-72YG,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,399",4.5
+MSI,MSI,15.6 Inches,Black,Core i7,32 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,018",
+Razer,Blade,16 Inches,Classic Black,Intel Core i9,32 GB,Windows 11,"CNC Aluminum Construction, Chroma RGB, Compact GaN Charger, Windows 11",Dedicated,,"4,099",3.5
+MSI,THINGF63,15.6,,Intel Core i7,32 GB,Windows 11,Thin Bezel,Dedicated,NVIDIA GeForce RTX 4050,989,3.9
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Intel Core i9,16 GB,Windows 11 Home,Anti Glare Coating,Dedicated,,"1,999",4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+acer,Nitro 17,17.3 Inches,Black,AMD Ryzen 7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,032",4.3
+MSI,Katana 17 B13VFK-835US,17.3 Inches,Black,Core i7,32 GB,Windows 11 Home,,RTX 4060,NVIDIA GeForce RTX 4060,"1,372",4.3
+ASUS,G513RC-EH71,15.6 Inches,Eclipse Gray,Ryzen 7,8 GB,Windows 11 Home,,Dedicated,NVIDIA GeForce RTX 3050,860,4.5
+ASUS,FA707NU-DS74,17.3 Inches,Mecha Gray,Ryzen 7,16 GB,Windows 11 Home,"Anti-Glare Display, Backlit Keyboard",Dedicated,NVIDIA GeForce RTX 4050 Laptop GPU,"1,157",4.4
+MSI,MSI GF63,15.6 Inches,Aluminum Black,Core i5 Family,16 GB,Windows 11,Backlit Keyboard,Dedicated,,699,4.2
+MSI,MSI Cyborg 15,15.6 Inches,16GB RAM | 512GB PCIe SSD,Core i7,16 GB,Windows 11 Home,"Translucent Chassis Components, Translucent Keycaps",Dedicated,,889,4.1
+GIGABYTE,G6 KF-H3US853SH,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Anti Glare Coating, Numeric Keypad",Dedicated,,959,4.5
+HP,HP Victus,15.6 Inches,Mica Silver,Ryzen 5,8 GB,Windows 11 Home,"144Hz Refresh Rate, Backlit Keyboard",GeForce RTX 2050,,580,4.3
+MSI,Pulse 17 B13VGK-888US,17 Inches,Black,Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard",Dedicated,,"1,299",5.0
+Verbatim,,17.3 Inches,,,,,"Touchscreen, Portable, Lightweight, Tilt Adjustment",,,349,4.4
+MSI,Raider GE76 12UE-871,17.3 Inches,Black,Core i9,16 GB,Windows 11 Home,Numeric Keypad,Dedicated,,"1,299",4.8
+acer,PT14-51-78B4,14 Inches,Silver,Intel Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard, Memory Card Slot",Dedicated,,899,4.1
+acer,Predator Helios 16 PH16-71-72YG,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,399",4.5
+MSI,MSI,15.6 Inches,Black,Core i7,32 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,018",
+Razer,Blade,16 Inches,Classic Black,Intel Core i9,32 GB,Windows 11,"CNC Aluminum Construction, Chroma RGB, Compact GaN Charger, Windows 11",Dedicated,,"4,099",3.5
+MSI,THINGF63,15.6,,Intel Core i7,32 GB,Windows 11,Thin Bezel,Dedicated,NVIDIA GeForce RTX 4050,989,3.9
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Intel Core i9,16 GB,Windows 11 Home,Anti Glare Coating,Dedicated,,"1,999",4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+acer,Nitro 17,17.3 Inches,Black,AMD Ryzen 7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,032",4.3
+MSI,Katana 17 B13VFK-835US,17.3 Inches,Black,Core i7,32 GB,Windows 11 Home,,RTX 4060,NVIDIA GeForce RTX 4060,"1,372",4.3
+ASUS,G513RC-EH71,15.6 Inches,Eclipse Gray,Ryzen 7,8 GB,Windows 11 Home,,Dedicated,NVIDIA GeForce RTX 3050,860,4.5
+ASUS,FA707NU-DS74,17.3 Inches,Mecha Gray,Ryzen 7,16 GB,Windows 11 Home,"Anti-Glare Display, Backlit Keyboard",Dedicated,NVIDIA GeForce RTX 4050 Laptop GPU,"1,157",4.4
+MSI,MSI GF63,15.6 Inches,Aluminum Black,Core i5 Family,16 GB,Windows 11,Backlit Keyboard,Dedicated,,699,4.2
+MSI,MSI Cyborg 15,15.6 Inches,16GB RAM | 512GB PCIe SSD,Core i7,16 GB,Windows 11 Home,"Translucent Chassis Components, Translucent Keycaps",Dedicated,,889,4.1
+GIGABYTE,G6 KF-H3US853SH,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Anti Glare Coating, Numeric Keypad",Dedicated,,959,4.5
+HP,HP Victus,15.6 Inches,Mica Silver,Ryzen 5,8 GB,Windows 11 Home,"144Hz Refresh Rate, Backlit Keyboard",GeForce RTX 2050,,580,4.3
+MSI,Pulse 17 B13VGK-888US,17 Inches,Black,Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard",Dedicated,,"1,299",5.0
+Verbatim,,17.3 Inches,,,,,"Touchscreen, Portable, Lightweight, Tilt Adjustment",,,349,4.4
+MSI,Raider GE76 12UE-871,17.3 Inches,Black,Core i9,16 GB,Windows 11 Home,Numeric Keypad,Dedicated,,"1,299",4.8
+acer,PT14-51-78B4,14 Inches,Silver,Intel Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard, Memory Card Slot",Dedicated,,899,4.1
+acer,Predator Helios 16 PH16-71-72YG,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,399",4.5
+MSI,MSI,15.6 Inches,Black,Core i7,32 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,018",
+Razer,Blade,16 Inches,Classic Black,Intel Core i9,32 GB,Windows 11,"CNC Aluminum Construction, Chroma RGB, Compact GaN Charger, Windows 11",Dedicated,,"4,099",3.5
+MSI,THINGF63,15.6,,Intel Core i7,32 GB,Windows 11,Thin Bezel,Dedicated,NVIDIA GeForce RTX 4050,989,3.9
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Intel Core i9,16 GB,Windows 11 Home,Anti Glare Coating,Dedicated,,"1,999",4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+acer,Nitro 17,17.3 Inches,Black,AMD Ryzen 7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,032",4.3
+MSI,Katana 17 B13VFK-835US,17.3 Inches,Black,Core i7,32 GB,Windows 11 Home,,RTX 4060,NVIDIA GeForce RTX 4060,"1,372",4.3
+ASUS,G513RC-EH71,15.6 Inches,Eclipse Gray,Ryzen 7,8 GB,Windows 11 Home,,Dedicated,NVIDIA GeForce RTX 3050,860,4.5
+ASUS,FA707NU-DS74,17.3 Inches,Mecha Gray,Ryzen 7,16 GB,Windows 11 Home,"Anti-Glare Display, Backlit Keyboard",Dedicated,NVIDIA GeForce RTX 4050 Laptop GPU,"1,157",4.4
+MSI,MSI GF63,15.6 Inches,Aluminum Black,Core i5 Family,16 GB,Windows 11,Backlit Keyboard,Dedicated,,699,4.2
+MSI,MSI Cyborg 15,15.6 Inches,16GB RAM | 512GB PCIe SSD,Core i7,16 GB,Windows 11 Home,"Translucent Chassis Components, Translucent Keycaps",Dedicated,,889,4.1
+GIGABYTE,G6 KF-H3US853SH,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Anti Glare Coating, Numeric Keypad",Dedicated,,959,4.5
+HP,HP Victus,15.6 Inches,Mica Silver,Ryzen 5,8 GB,Windows 11 Home,"144Hz Refresh Rate, Backlit Keyboard",GeForce RTX 2050,,580,4.3
+MSI,Pulse 17 B13VGK-888US,17 Inches,Black,Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard",Dedicated,,"1,299",5.0
+Verbatim,,17.3 Inches,,,,,"Touchscreen, Portable, Lightweight, Tilt Adjustment",,,349,4.4
+MSI,Raider GE76 12UE-871,17.3 Inches,Black,Core i9,16 GB,Windows 11 Home,Numeric Keypad,Dedicated,,"1,299",4.8
+acer,PT14-51-78B4,14 Inches,Silver,Intel Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard, Memory Card Slot",Dedicated,,899,4.1
+acer,Predator Helios 16 PH16-71-72YG,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,399",4.5
+MSI,MSI,15.6 Inches,Black,Core i7,32 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,018",
+Razer,Blade,16 Inches,Classic Black,Intel Core i9,32 GB,Windows 11,"CNC Aluminum Construction, Chroma RGB, Compact GaN Charger, Windows 11",Dedicated,,"4,099",3.5
+MSI,THINGF63,15.6,,Intel Core i7,32 GB,Windows 11,Thin Bezel,Dedicated,NVIDIA GeForce RTX 4050,989,3.9
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Intel Core i9,16 GB,Windows 11 Home,Anti Glare Coating,Dedicated,,"1,999",4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+acer,Nitro 17,17.3 Inches,Black,AMD Ryzen 7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,032",4.3
+MSI,Katana 17 B13VFK-835US,17.3 Inches,Black,Core i7,32 GB,Windows 11 Home,,RTX 4060,NVIDIA GeForce RTX 4060,"1,372",4.3
+ASUS,G513RC-EH71,15.6 Inches,Eclipse Gray,Ryzen 7,8 GB,Windows 11 Home,,Dedicated,NVIDIA GeForce RTX 3050,860,4.5
+ASUS,FA707NU-DS74,17.3 Inches,Mecha Gray,Ryzen 7,16 GB,Windows 11 Home,"Anti-Glare Display, Backlit Keyboard",Dedicated,NVIDIA GeForce RTX 4050 Laptop GPU,"1,157",4.4
+MSI,MSI GF63,15.6 Inches,Aluminum Black,Core i5 Family,16 GB,Windows 11,Backlit Keyboard,Dedicated,,699,4.2
+MSI,MSI Cyborg 15,15.6 Inches,16GB RAM | 512GB PCIe SSD,Core i7,16 GB,Windows 11 Home,"Translucent Chassis Components, Translucent Keycaps",Dedicated,,889,4.1
+GIGABYTE,G6 KF-H3US853SH,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Anti Glare Coating, Numeric Keypad",Dedicated,,959,4.5
+HP,HP Victus,15.6 Inches,Mica Silver,Ryzen 5,8 GB,Windows 11 Home,"144Hz Refresh Rate, Backlit Keyboard",GeForce RTX 2050,,580,4.3
+MSI,Pulse 17 B13VGK-888US,17 Inches,Black,Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard",Dedicated,,"1,299",5.0
+Verbatim,,17.3 Inches,,,,,"Touchscreen, Portable, Lightweight, Tilt Adjustment",,,349,4.4
+MSI,Raider GE76 12UE-871,17.3 Inches,Black,Core i9,16 GB,Windows 11 Home,Numeric Keypad,Dedicated,,"1,299",4.8
+acer,PT14-51-78B4,14 Inches,Silver,Intel Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard, Memory Card Slot",Dedicated,,899,4.1
+acer,Predator Helios 16 PH16-71-72YG,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,399",4.5
+MSI,MSI,15.6 Inches,Black,Core i7,32 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,018",
+Razer,Blade,16 Inches,Classic Black,Intel Core i9,32 GB,Windows 11,"CNC Aluminum Construction, Chroma RGB, Compact GaN Charger, Windows 11",Dedicated,,"4,099",3.5
+MSI,THINGF63,15.6,,Intel Core i7,32 GB,Windows 11,Thin Bezel,Dedicated,NVIDIA GeForce RTX 4050,989,3.9
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Intel Core i9,16 GB,Windows 11 Home,Anti Glare Coating,Dedicated,,"1,999",4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+acer,Nitro 17,17.3 Inches,Black,AMD Ryzen 7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,032",4.3
+MSI,Katana 17 B13VFK-835US,17.3 Inches,Black,Core i7,32 GB,Windows 11 Home,,RTX 4060,NVIDIA GeForce RTX 4060,"1,372",4.3
+ASUS,G513RC-EH71,15.6 Inches,Eclipse Gray,Ryzen 7,8 GB,Windows 11 Home,,Dedicated,NVIDIA GeForce RTX 3050,860,4.5
+ASUS,FA707NU-DS74,17.3 Inches,Mecha Gray,Ryzen 7,16 GB,Windows 11 Home,"Anti-Glare Display, Backlit Keyboard",Dedicated,NVIDIA GeForce RTX 4050 Laptop GPU,"1,157",4.4
+MSI,MSI GF63,15.6 Inches,Aluminum Black,Core i5 Family,16 GB,Windows 11,Backlit Keyboard,Dedicated,,699,4.2
+MSI,MSI Cyborg 15,15.6 Inches,16GB RAM | 512GB PCIe SSD,Core i7,16 GB,Windows 11 Home,"Translucent Chassis Components, Translucent Keycaps",Dedicated,,889,4.1
+GIGABYTE,G6 KF-H3US853SH,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Anti Glare Coating, Numeric Keypad",Dedicated,,959,4.5
+HP,HP Victus,15.6 Inches,Mica Silver,Ryzen 5,8 GB,Windows 11 Home,"144Hz Refresh Rate, Backlit Keyboard",GeForce RTX 2050,,580,4.3
+MSI,Pulse 17 B13VGK-888US,17 Inches,Black,Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard",Dedicated,,"1,299",5.0
+Verbatim,,17.3 Inches,,,,,"Touchscreen, Portable, Lightweight, Tilt Adjustment",,,349,4.4
+MSI,Raider GE76 12UE-871,17.3 Inches,Black,Core i9,16 GB,Windows 11 Home,Numeric Keypad,Dedicated,,"1,299",4.8
+acer,PT14-51-78B4,14 Inches,Silver,Intel Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard, Memory Card Slot",Dedicated,,899,4.1
+acer,Predator Helios 16 PH16-71-72YG,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,399",4.5
+MSI,MSI,15.6 Inches,Black,Core i7,32 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,018",
+Razer,Blade,16 Inches,Classic Black,Intel Core i9,32 GB,Windows 11,"CNC Aluminum Construction, Chroma RGB, Compact GaN Charger, Windows 11",Dedicated,,"4,099",3.5
+MSI,THINGF63,15.6,,Intel Core i7,32 GB,Windows 11,Thin Bezel,Dedicated,NVIDIA GeForce RTX 4050,989,3.9
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Intel Core i9,16 GB,Windows 11 Home,Anti Glare Coating,Dedicated,,"1,999",4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+acer,Nitro 17,17.3 Inches,Black,AMD Ryzen 7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,032",4.3
+MSI,Katana 17 B13VFK-835US,17.3 Inches,Black,Core i7,32 GB,Windows 11 Home,,RTX 4060,NVIDIA GeForce RTX 4060,"1,372",4.3
+ASUS,G513RC-EH71,15.6 Inches,Eclipse Gray,Ryzen 7,8 GB,Windows 11 Home,,Dedicated,NVIDIA GeForce RTX 3050,860,4.5
+ASUS,FA707NU-DS74,17.3 Inches,Mecha Gray,Ryzen 7,16 GB,Windows 11 Home,"Anti-Glare Display, Backlit Keyboard",Dedicated,NVIDIA GeForce RTX 4050 Laptop GPU,"1,157",4.4
+MSI,MSI GF63,15.6 Inches,Aluminum Black,Core i5 Family,16 GB,Windows 11,Backlit Keyboard,Dedicated,,699,4.2
+MSI,MSI Cyborg 15,15.6 Inches,16GB RAM | 512GB PCIe SSD,Core i7,16 GB,Windows 11 Home,"Translucent Chassis Components, Translucent Keycaps",Dedicated,,889,4.1
+GIGABYTE,G6 KF-H3US853SH,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Anti Glare Coating, Numeric Keypad",Dedicated,,959,4.5
+HP,HP Victus,15.6 Inches,Mica Silver,Ryzen 5,8 GB,Windows 11 Home,"144Hz Refresh Rate, Backlit Keyboard",GeForce RTX 2050,,580,4.3
+MSI,Pulse 17 B13VGK-888US,17 Inches,Black,Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard",Dedicated,,"1,299",5.0
+Verbatim,,17.3 Inches,,,,,"Touchscreen, Portable, Lightweight, Tilt Adjustment",,,349,4.4
+MSI,Raider GE76 12UE-871,17.3 Inches,Black,Core i9,16 GB,Windows 11 Home,Numeric Keypad,Dedicated,,"1,299",4.8
+acer,PT14-51-78B4,14 Inches,Silver,Intel Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard, Memory Card Slot",Dedicated,,899,4.1
+acer,Predator Helios 16 PH16-71-72YG,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,399",4.5
+MSI,MSI,15.6 Inches,Black,Core i7,32 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,018",
+Razer,Blade,16 Inches,Classic Black,Intel Core i9,32 GB,Windows 11,"CNC Aluminum Construction, Chroma RGB, Compact GaN Charger, Windows 11",Dedicated,,"4,099",3.5
+MSI,THINGF63,15.6,,Intel Core i7,32 GB,Windows 11,Thin Bezel,Dedicated,NVIDIA GeForce RTX 4050,989,3.9
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Intel Core i9,16 GB,Windows 11 Home,Anti Glare Coating,Dedicated,,"1,999",4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+acer,Nitro 17,17.3 Inches,Black,AMD Ryzen 7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,032",4.3
+MSI,Katana 17 B13VFK-835US,17.3 Inches,Black,Core i7,32 GB,Windows 11 Home,,RTX 4060,NVIDIA GeForce RTX 4060,"1,372",4.3
+ASUS,G513RC-EH71,15.6 Inches,Eclipse Gray,Ryzen 7,8 GB,Windows 11 Home,,Dedicated,NVIDIA GeForce RTX 3050,860,4.5
+ASUS,FA707NU-DS74,17.3 Inches,Mecha Gray,Ryzen 7,16 GB,Windows 11 Home,"Anti-Glare Display, Backlit Keyboard",Dedicated,NVIDIA GeForce RTX 4050 Laptop GPU,"1,157",4.4
+MSI,MSI GF63,15.6 Inches,Aluminum Black,Core i5 Family,16 GB,Windows 11,Backlit Keyboard,Dedicated,,699,4.2
+MSI,MSI Cyborg 15,15.6 Inches,16GB RAM | 512GB PCIe SSD,Core i7,16 GB,Windows 11 Home,"Translucent Chassis Components, Translucent Keycaps",Dedicated,,889,4.1
+GIGABYTE,G6 KF-H3US853SH,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Anti Glare Coating, Numeric Keypad",Dedicated,,959,4.5
+HP,HP Victus,15.6 Inches,Mica Silver,Ryzen 5,8 GB,Windows 11 Home,"144Hz Refresh Rate, Backlit Keyboard",GeForce RTX 2050,,580,4.3
+MSI,Pulse 17 B13VGK-888US,17 Inches,Black,Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard",Dedicated,,"1,299",5.0
+Verbatim,,17.3 Inches,,,,,"Touchscreen, Portable, Lightweight, Tilt Adjustment",,,349,4.4
+MSI,Raider GE76 12UE-871,17.3 Inches,Black,Core i9,16 GB,Windows 11 Home,Numeric Keypad,Dedicated,,"1,299",4.8
+acer,PT14-51-78B4,14 Inches,Silver,Intel Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard, Memory Card Slot",Dedicated,,899,4.1
+acer,Predator Helios 16 PH16-71-72YG,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,399",4.5
+MSI,MSI,15.6 Inches,Black,Core i7,32 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,018",
+Razer,Blade,16 Inches,Classic Black,Intel Core i9,32 GB,Windows 11,"CNC Aluminum Construction, Chroma RGB, Compact GaN Charger, Windows 11",Dedicated,,"4,099",3.5
+MSI,THINGF63,15.6,,Intel Core i7,32 GB,Windows 11,Thin Bezel,Dedicated,NVIDIA GeForce RTX 4050,989,3.9
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Intel Core i9,16 GB,Windows 11 Home,Anti Glare Coating,Dedicated,,"1,999",4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+acer,Nitro 17,17.3 Inches,Black,AMD Ryzen 7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,032",4.3
+MSI,Katana 17 B13VFK-835US,17.3 Inches,Black,Core i7,32 GB,Windows 11 Home,,RTX 4060,NVIDIA GeForce RTX 4060,"1,372",4.3
+MSI,Raider GE78 HX 13VH-080US,17 Inches,Dark Grey,Core i9,64 GB,Windows 11 Pro,Anti Glare Coating,RTX 4080,,"3,599",4.1
+ASUS,G513RC-EH71,15.6 Inches,Eclipse Gray,Ryzen 7,8 GB,Windows 11 Home,,Dedicated,NVIDIA GeForce RTX 3050,860,4.5
+ASUS,FA707NU-DS74,17.3 Inches,Mecha Gray,Ryzen 7,16 GB,Windows 11 Home,"Anti-Glare Display, Backlit Keyboard",Dedicated,NVIDIA GeForce RTX 4050 Laptop GPU,"1,157",4.4
+MSI,MSI GF63,15.6 Inches,Aluminum Black,Core i5 Family,16 GB,Windows 11,Backlit Keyboard,Dedicated,,699,4.2
+MSI,MSI Cyborg 15,15.6 Inches,16GB RAM | 512GB PCIe SSD,Core i7,16 GB,Windows 11 Home,"Translucent Chassis Components, Translucent Keycaps",Dedicated,,889,4.1
+Razer,Blade,16 Inches,Classic Black,Intel Core i9,32 GB,Windows 11,"CNC Aluminum Construction, Chroma RGB, Compact GaN Charger, Windows 11",Dedicated,,"4,099",3.5
+GIGABYTE,G6 KF-H3US853SH,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Anti Glare Coating, Numeric Keypad",Dedicated,,959,4.5
+HP,HP Victus,15.6 Inches,Mica Silver,Ryzen 5,8 GB,Windows 11 Home,"144Hz Refresh Rate, Backlit Keyboard",GeForce RTX 2050,,580,4.3
+MSI,Pulse 17 B13VGK-888US,17 Inches,Black,Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard",Dedicated,,"1,299",5.0
+MSI,Raider GE76 12UE-871,17.3 Inches,Black,Core i9,16 GB,Windows 11 Home,Numeric Keypad,Dedicated,,"1,299",4.8
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Intel Core i9,16 GB,Windows 11 Home,Anti Glare Coating,Dedicated,,"1,999",4.4
+acer,PT14-51-78B4,14 Inches,Silver,Intel Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard, Memory Card Slot",Dedicated,,899,4.1
+acer,Predator Helios 16 PH16-71-72YG,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,399",4.5
+MSI,MSI,15.6 Inches,Black,Core i7,32 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,018",
+MSI,THINGF63,15.6,,Intel Core i7,32 GB,Windows 11,Thin Bezel,Dedicated,NVIDIA GeForce RTX 4050,989,3.9
+MSI,Stealth 17Studio A13VH-053US,17.3 Inches,Core Black,Core i9,32 GB,Windows 11 Home,Anti Glare Coating,RTX 4080,,"2,596",4.2
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+acer,Nitro 17,17.3 Inches,Black,AMD Ryzen 7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,032",4.3
+MSI,Katana 17 B13VFK-835US,17.3 Inches,Black,Core i7,32 GB,Windows 11 Home,,RTX 4060,NVIDIA GeForce RTX 4060,"1,372",4.3
+ASUS,G513RC-EH71,15.6 Inches,Eclipse Gray,Ryzen 7,8 GB,Windows 11 Home,,Dedicated,NVIDIA GeForce RTX 3050,860,4.5
+ASUS,FA707NU-DS74,17.3 Inches,Mecha Gray,Ryzen 7,16 GB,Windows 11 Home,"Anti-Glare Display, Backlit Keyboard",Dedicated,NVIDIA GeForce RTX 4050 Laptop GPU,"1,157",4.4
+MSI,MSI GF63,15.6 Inches,Aluminum Black,Core i5 Family,16 GB,Windows 11,Backlit Keyboard,Dedicated,,699,4.2
+MSI,MSI Cyborg 15,15.6 Inches,16GB RAM | 512GB PCIe SSD,Core i7,16 GB,Windows 11 Home,"Translucent Chassis Components, Translucent Keycaps",Dedicated,,889,4.1
+GIGABYTE,G6 KF-H3US853SH,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Anti Glare Coating, Numeric Keypad",Dedicated,,959,4.5
+HP,HP Victus,15.6 Inches,Mica Silver,Ryzen 5,8 GB,Windows 11 Home,"144Hz Refresh Rate, Backlit Keyboard",GeForce RTX 2050,,580,4.3
+MSI,Pulse 17 B13VGK-888US,17 Inches,Black,Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard",Dedicated,,"1,299",5.0
+Verbatim,,17.3 Inches,,,,,"Touchscreen, Portable, Lightweight, Tilt Adjustment",,,349,4.4
+MSI,Raider GE76 12UE-871,17.3 Inches,Black,Core i9,16 GB,Windows 11 Home,Numeric Keypad,Dedicated,,"1,299",4.8
+acer,PT14-51-78B4,14 Inches,Silver,Intel Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard, Memory Card Slot",Dedicated,,899,4.1
+acer,Predator Helios 16 PH16-71-72YG,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,399",4.5
+MSI,MSI,15.6 Inches,Black,Core i7,32 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,018",
+Razer,Blade,16 Inches,Classic Black,Intel Core i9,32 GB,Windows 11,"CNC Aluminum Construction, Chroma RGB, Compact GaN Charger, Windows 11",Dedicated,,"4,099",3.5
+MSI,THINGF63,15.6,,Intel Core i7,32 GB,Windows 11,Thin Bezel,Dedicated,NVIDIA GeForce RTX 4050,989,3.9
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Intel Core i9,16 GB,Windows 11 Home,Anti Glare Coating,Dedicated,,"1,999",4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+acer,Nitro 17,17.3 Inches,Black,AMD Ryzen 7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,032",4.3
+MSI,Katana 17 B13VFK-835US,17.3 Inches,Black,Core i7,32 GB,Windows 11 Home,,RTX 4060,NVIDIA GeForce RTX 4060,"1,372",4.3
+ASUS,G513RC-EH71,15.6 Inches,Eclipse Gray,Ryzen 7,8 GB,Windows 11 Home,,Dedicated,NVIDIA GeForce RTX 3050,860,4.5
+ASUS,FA707NU-DS74,17.3 Inches,Mecha Gray,Ryzen 7,16 GB,Windows 11 Home,"Anti-Glare Display, Backlit Keyboard",Dedicated,NVIDIA GeForce RTX 4050 Laptop GPU,"1,157",4.4
+MSI,MSI GF63,15.6 Inches,Aluminum Black,Core i5 Family,16 GB,Windows 11,Backlit Keyboard,Dedicated,,699,4.2
+MSI,MSI Cyborg 15,15.6 Inches,16GB RAM | 512GB PCIe SSD,Core i7,16 GB,Windows 11 Home,"Translucent Chassis Components, Translucent Keycaps",Dedicated,,889,4.1
+GIGABYTE,G6 KF-H3US853SH,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Anti Glare Coating, Numeric Keypad",Dedicated,,959,4.5
+HP,HP Victus,15.6 Inches,Mica Silver,Ryzen 5,8 GB,Windows 11 Home,"144Hz Refresh Rate, Backlit Keyboard",GeForce RTX 2050,,580,4.3
+MSI,Pulse 17 B13VGK-888US,17 Inches,Black,Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard",Dedicated,,"1,299",5.0
+Verbatim,,17.3 Inches,,,,,"Touchscreen, Portable, Lightweight, Tilt Adjustment",,,349,4.4
+MSI,Raider GE76 12UE-871,17.3 Inches,Black,Core i9,16 GB,Windows 11 Home,Numeric Keypad,Dedicated,,"1,299",4.8
+acer,PT14-51-78B4,14 Inches,Silver,Intel Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard, Memory Card Slot",Dedicated,,899,4.1
+acer,Predator Helios 16 PH16-71-72YG,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,399",4.5
+MSI,MSI,15.6 Inches,Black,Core i7,32 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,018",
+Razer,Blade,16 Inches,Classic Black,Intel Core i9,32 GB,Windows 11,"CNC Aluminum Construction, Chroma RGB, Compact GaN Charger, Windows 11",Dedicated,,"4,099",3.5
+MSI,THINGF63,15.6,,Intel Core i7,32 GB,Windows 11,Thin Bezel,Dedicated,NVIDIA GeForce RTX 4050,989,3.9
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Intel Core i9,16 GB,Windows 11 Home,Anti Glare Coating,Dedicated,,"1,999",4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+acer,Nitro 17,17.3 Inches,Black,AMD Ryzen 7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,032",4.3
+MSI,Katana 17 B13VFK-835US,17.3 Inches,Black,Core i7,32 GB,Windows 11 Home,,RTX 4060,NVIDIA GeForce RTX 4060,"1,372",4.3
+ASUS,G513RC-EH71,15.6 Inches,Eclipse Gray,Ryzen 7,8 GB,Windows 11 Home,,Dedicated,NVIDIA GeForce RTX 3050,860,4.5
+ASUS,FA707NU-DS74,17.3 Inches,Mecha Gray,Ryzen 7,16 GB,Windows 11 Home,"Anti-Glare Display, Backlit Keyboard",Dedicated,NVIDIA GeForce RTX 4050 Laptop GPU,"1,157",4.4
+MSI,MSI GF63,15.6 Inches,Aluminum Black,Core i5 Family,16 GB,Windows 11,Backlit Keyboard,Dedicated,,699,4.2
+MSI,MSI Cyborg 15,15.6 Inches,16GB RAM | 512GB PCIe SSD,Core i7,16 GB,Windows 11 Home,"Translucent Chassis Components, Translucent Keycaps",Dedicated,,889,4.1
+GIGABYTE,G6 KF-H3US853SH,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Anti Glare Coating, Numeric Keypad",Dedicated,,959,4.5
+HP,HP Victus,15.6 Inches,Mica Silver,Ryzen 5,8 GB,Windows 11 Home,"144Hz Refresh Rate, Backlit Keyboard",GeForce RTX 2050,,580,4.3
+MSI,Pulse 17 B13VGK-888US,17 Inches,Black,Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard",Dedicated,,"1,299",5.0
+Verbatim,,17.3 Inches,,,,,"Touchscreen, Portable, Lightweight, Tilt Adjustment",,,349,4.4
+MSI,Raider GE76 12UE-871,17.3 Inches,Black,Core i9,16 GB,Windows 11 Home,Numeric Keypad,Dedicated,,"1,299",4.8
+acer,PT14-51-78B4,14 Inches,Silver,Intel Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard, Memory Card Slot",Dedicated,,899,4.1
+acer,Predator Helios 16 PH16-71-72YG,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,399",4.5
+MSI,MSI,15.6 Inches,Black,Core i7,32 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,018",
+Razer,Blade,16 Inches,Classic Black,Intel Core i9,32 GB,Windows 11,"CNC Aluminum Construction, Chroma RGB, Compact GaN Charger, Windows 11",Dedicated,,"4,099",3.5
+MSI,THINGF63,15.6,,Intel Core i7,32 GB,Windows 11,Thin Bezel,Dedicated,NVIDIA GeForce RTX 4050,989,3.9
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Intel Core i9,16 GB,Windows 11 Home,Anti Glare Coating,Dedicated,,"1,999",4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+acer,Nitro 17,17.3 Inches,Black,AMD Ryzen 7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,032",4.3
+MSI,Katana 17 B13VFK-835US,17.3 Inches,Black,Core i7,32 GB,Windows 11 Home,,RTX 4060,NVIDIA GeForce RTX 4060,"1,372",4.3
+ASUS,G513RC-EH71,15.6 Inches,Eclipse Gray,Ryzen 7,8 GB,Windows 11 Home,,Dedicated,NVIDIA GeForce RTX 3050,860,4.5
+ASUS,FA707NU-DS74,17.3 Inches,Mecha Gray,Ryzen 7,16 GB,Windows 11 Home,"Anti-Glare Display, Backlit Keyboard",Dedicated,NVIDIA GeForce RTX 4050 Laptop GPU,"1,157",4.4
+MSI,MSI GF63,15.6 Inches,Aluminum Black,Core i5 Family,16 GB,Windows 11,Backlit Keyboard,Dedicated,,699,4.2
+MSI,MSI Cyborg 15,15.6 Inches,16GB RAM | 512GB PCIe SSD,Core i7,16 GB,Windows 11 Home,"Translucent Chassis Components, Translucent Keycaps",Dedicated,,889,4.1
+GIGABYTE,G6 KF-H3US853SH,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Anti Glare Coating, Numeric Keypad",Dedicated,,959,4.5
+HP,HP Victus,15.6 Inches,Mica Silver,Ryzen 5,8 GB,Windows 11 Home,"144Hz Refresh Rate, Backlit Keyboard",GeForce RTX 2050,,580,4.3
+MSI,Pulse 17 B13VGK-888US,17 Inches,Black,Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard",Dedicated,,"1,299",5.0
+Verbatim,,17.3 Inches,,,,,"Touchscreen, Portable, Lightweight, Tilt Adjustment",,,349,4.4
+MSI,Raider GE76 12UE-871,17.3 Inches,Black,Core i9,16 GB,Windows 11 Home,Numeric Keypad,Dedicated,,"1,299",4.8
+acer,PT14-51-78B4,14 Inches,Silver,Intel Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard, Memory Card Slot",Dedicated,,899,4.1
+acer,Predator Helios 16 PH16-71-72YG,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,399",4.5
+MSI,MSI,15.6 Inches,Black,Core i7,32 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,018",
+Razer,Blade,16 Inches,Classic Black,Intel Core i9,32 GB,Windows 11,"CNC Aluminum Construction, Chroma RGB, Compact GaN Charger, Windows 11",Dedicated,,"4,099",3.5
+MSI,THINGF63,15.6,,Intel Core i7,32 GB,Windows 11,Thin Bezel,Dedicated,NVIDIA GeForce RTX 4050,989,3.9
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Intel Core i9,16 GB,Windows 11 Home,Anti Glare Coating,Dedicated,,"1,999",4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+acer,Nitro 17,17.3 Inches,Black,AMD Ryzen 7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,032",4.3
+MSI,Katana 17 B13VFK-835US,17.3 Inches,Black,Core i7,32 GB,Windows 11 Home,,RTX 4060,NVIDIA GeForce RTX 4060,"1,372",4.3
+ASUS,G513RC-EH71,15.6 Inches,Eclipse Gray,Ryzen 7,8 GB,Windows 11 Home,,Dedicated,NVIDIA GeForce RTX 3050,860,4.5
+ASUS,FA707NU-DS74,17.3 Inches,Mecha Gray,Ryzen 7,16 GB,Windows 11 Home,"Anti-Glare Display, Backlit Keyboard",Dedicated,NVIDIA GeForce RTX 4050 Laptop GPU,"1,157",4.4
+MSI,MSI GF63,15.6 Inches,Aluminum Black,Core i5 Family,16 GB,Windows 11,Backlit Keyboard,Dedicated,,699,4.2
+MSI,MSI Cyborg 15,15.6 Inches,16GB RAM | 512GB PCIe SSD,Core i7,16 GB,Windows 11 Home,"Translucent Chassis Components, Translucent Keycaps",Dedicated,,889,4.1
+GIGABYTE,G6 KF-H3US853SH,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Anti Glare Coating, Numeric Keypad",Dedicated,,959,4.5
+HP,HP Victus,15.6 Inches,Mica Silver,Ryzen 5,8 GB,Windows 11 Home,"144Hz Refresh Rate, Backlit Keyboard",GeForce RTX 2050,,580,4.3
+MSI,Pulse 17 B13VGK-888US,17 Inches,Black,Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard",Dedicated,,"1,299",5.0
+Verbatim,,17.3 Inches,,,,,"Touchscreen, Portable, Lightweight, Tilt Adjustment",,,349,4.4
+MSI,Raider GE76 12UE-871,17.3 Inches,Black,Core i9,16 GB,Windows 11 Home,Numeric Keypad,Dedicated,,"1,299",4.8
+acer,PT14-51-78B4,14 Inches,Silver,Intel Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard, Memory Card Slot",Dedicated,,899,4.1
+acer,Predator Helios 16 PH16-71-72YG,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,399",4.5
+MSI,MSI,15.6 Inches,Black,Core i7,32 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,018",
+Razer,Blade,16 Inches,Classic Black,Intel Core i9,32 GB,Windows 11,"CNC Aluminum Construction, Chroma RGB, Compact GaN Charger, Windows 11",Dedicated,,"4,099",3.5
+MSI,THINGF63,15.6,,Intel Core i7,32 GB,Windows 11,Thin Bezel,Dedicated,NVIDIA GeForce RTX 4050,989,3.9
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Intel Core i9,16 GB,Windows 11 Home,Anti Glare Coating,Dedicated,,"1,999",4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+acer,Nitro 17,17.3 Inches,Black,AMD Ryzen 7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,032",4.3
+MSI,Katana 17 B13VFK-835US,17.3 Inches,Black,Core i7,32 GB,Windows 11 Home,,RTX 4060,NVIDIA GeForce RTX 4060,"1,372",4.3
+ASUS,G513RC-EH71,15.6 Inches,Eclipse Gray,Ryzen 7,8 GB,Windows 11 Home,,Dedicated,NVIDIA GeForce RTX 3050,860,4.5
+ASUS,FA707NU-DS74,17.3 Inches,Mecha Gray,Ryzen 7,16 GB,Windows 11 Home,"Anti-Glare Display, Backlit Keyboard",Dedicated,NVIDIA GeForce RTX 4050 Laptop GPU,"1,157",4.4
+MSI,MSI GF63,15.6 Inches,Aluminum Black,Core i5 Family,16 GB,Windows 11,Backlit Keyboard,Dedicated,,699,4.2
+MSI,MSI Cyborg 15,15.6 Inches,16GB RAM | 512GB PCIe SSD,Core i7,16 GB,Windows 11 Home,"Translucent Chassis Components, Translucent Keycaps",Dedicated,,889,4.1
+GIGABYTE,G6 KF-H3US853SH,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Anti Glare Coating, Numeric Keypad",Dedicated,,959,4.5
+HP,HP Victus,15.6 Inches,Mica Silver,Ryzen 5,8 GB,Windows 11 Home,"144Hz Refresh Rate, Backlit Keyboard",GeForce RTX 2050,,580,4.3
+MSI,Pulse 17 B13VGK-888US,17 Inches,Black,Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard",Dedicated,,"1,299",5.0
+Verbatim,,17.3 Inches,,,,,"Touchscreen, Portable, Lightweight, Tilt Adjustment",,,349,4.4
+MSI,Raider GE76 12UE-871,17.3 Inches,Black,Core i9,16 GB,Windows 11 Home,Numeric Keypad,Dedicated,,"1,299",4.8
+acer,PT14-51-78B4,14 Inches,Silver,Intel Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard, Memory Card Slot",Dedicated,,899,4.1
+acer,Predator Helios 16 PH16-71-72YG,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,399",4.5
+MSI,MSI,15.6 Inches,Black,Core i7,32 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,018",
+Razer,Blade,16 Inches,Classic Black,Intel Core i9,32 GB,Windows 11,"CNC Aluminum Construction, Chroma RGB, Compact GaN Charger, Windows 11",Dedicated,,"4,099",3.5
+MSI,THINGF63,15.6,,Intel Core i7,32 GB,Windows 11,Thin Bezel,Dedicated,NVIDIA GeForce RTX 4050,989,3.9
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Intel Core i9,16 GB,Windows 11 Home,Anti Glare Coating,Dedicated,,"1,999",4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
+acer,Nitro 17,17.3 Inches,Black,AMD Ryzen 7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,032",4.3
+MSI,Katana 17 B13VFK-835US,17.3 Inches,Black,Core i7,32 GB,Windows 11 Home,,RTX 4060,NVIDIA GeForce RTX 4060,"1,372",4.3
+ASUS,G513RC-EH71,15.6 Inches,Eclipse Gray,Ryzen 7,8 GB,Windows 11 Home,,Dedicated,NVIDIA GeForce RTX 3050,860,4.5
+ASUS,FA707NU-DS74,17.3 Inches,Mecha Gray,Ryzen 7,16 GB,Windows 11 Home,"Anti-Glare Display, Backlit Keyboard",Dedicated,NVIDIA GeForce RTX 4050 Laptop GPU,"1,157",4.4
+MSI,MSI GF63,15.6 Inches,Aluminum Black,Core i5 Family,16 GB,Windows 11,Backlit Keyboard,Dedicated,,699,4.2
+MSI,MSI Cyborg 15,15.6 Inches,16GB RAM | 512GB PCIe SSD,Core i7,16 GB,Windows 11 Home,"Translucent Chassis Components, Translucent Keycaps",Dedicated,,889,4.1
+GIGABYTE,G6 KF-H3US853SH,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Anti Glare Coating, Numeric Keypad",Dedicated,,959,4.5
+HP,HP Victus,15.6 Inches,Mica Silver,Ryzen 5,8 GB,Windows 11 Home,"144Hz Refresh Rate, Backlit Keyboard",GeForce RTX 2050,,580,4.3
+MSI,Pulse 17 B13VGK-888US,17 Inches,Black,Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard",Dedicated,,"1,299",5.0
+Verbatim,,17.3 Inches,,,,,"Touchscreen, Portable, Lightweight, Tilt Adjustment",,,349,4.4
+MSI,Raider GE76 12UE-871,17.3 Inches,Black,Core i9,16 GB,Windows 11 Home,Numeric Keypad,Dedicated,,"1,299",4.8
+acer,PT14-51-78B4,14 Inches,Silver,Intel Core i7,16 GB,Windows 11 Home,"Fingerprint Reader, Backlit Keyboard, Memory Card Slot",Dedicated,,899,4.1
+acer,Predator Helios 16 PH16-71-72YG,16 Inches,Black,Intel Core i7,16 GB,Windows 11 Home,"Backlit Keyboard, Memory Card Slot",Dedicated,,"1,399",4.5
+MSI,MSI,15.6 Inches,Black,Core i7,32 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,018",
+Razer,Blade,16 Inches,Classic Black,Intel Core i9,32 GB,Windows 11,"CNC Aluminum Construction, Chroma RGB, Compact GaN Charger, Windows 11",Dedicated,,"4,099",3.5
+MSI,THINGF63,15.6,,Intel Core i7,32 GB,Windows 11,Thin Bezel,Dedicated,NVIDIA GeForce RTX 4050,989,3.9
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Intel Core i9,16 GB,Windows 11 Home,Anti Glare Coating,Dedicated,,"1,999",4.4
+ASUS,ROG Strix G16,16 Inches,Eclipse Gray,Core i7,16 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,"1,228",4.3
+acer,AN515-58-525P,15.6 Inches,Black,Core i5,8 GB,Windows 11 Home,Backlit Keyboard,Dedicated,,688,4.4
