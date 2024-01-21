@@ -32,9 +32,7 @@ def main():
         # print(laptop_links)
 
         df  = pd.DataFrame(data=laptop_links, columns = ["urls"])
-        # df.to_csv("./csv_files/laptop_links.csv", index=False)
-        df.to_csv("laptop_links.csv", index=False)
-
+        df.to_csv("./csv_files/laptop_links.csv", index=False)
 
         time.sleep(3)
 

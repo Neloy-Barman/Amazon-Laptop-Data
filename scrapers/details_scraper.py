@@ -114,9 +114,8 @@ def main():
         laptop_details.append(details)
 
         df = pd.DataFrame(data = laptop_details, columns = columns)
-        # df.to_csv("./csv_files/laptop_details.csv", index=False)
 
-        df.to_csv("laptop_details.csv", index=False)
+        df.to_csv("./csv_files/laptop_details.csv", index=False)
 
     
     driver.close()
